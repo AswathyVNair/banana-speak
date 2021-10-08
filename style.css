@@ -1,0 +1,48 @@
+body {
+  font-family: "Shadows Into Light", cursive;
+  margin: 0;
+  text-align: center;
+}
+:root {
+  --primary-color: #fbbf24;
+}
+
+textarea {
+  width: 90%;
+  padding-top: 1em;
+  height: 15vh;
+  margin: 1rem;
+  resize: none;
+}
+
+#output {
+  border: 2px solid black;
+
+  height: 15vh;
+  width: 75%;
+  margin: 2rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+.output-message {
+  padding-top: 0.5rem;
+  font-size: larger;
+}
+#btn-translate {
+  background-color: var(--primary-color);
+  padding: 1rem;
+}
+
+.heading {
+  background-color: var(--primary-color);
+  padding: 0.1rem;
+}
+
+.about-heading {
+  font-size: x-large;
+}
+.about {
+  background-color: var(--primary-color);
+  padding: 1.4rem;
+}
