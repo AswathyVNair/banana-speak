@@ -42,7 +42,7 @@ textarea {
 .about-heading {
   font-size: x-large;
 }
-.about {
+footer {
   background-color: var(--primary-color);
-  padding: 1.4rem;
+  padding: 1.56rem;
 }
