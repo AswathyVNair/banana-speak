@@ -1,5 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Short+Stack&display=swap");
 body {
-  font-family: "Shadows Into Light", cursive;
+  font-family: "Short Stack", cursive;
   margin: 0;
   text-align: center;
 }
@@ -44,5 +45,5 @@ textarea {
 }
 footer {
   background-color: var(--primary-color);
-  padding: 1.56rem;
+  padding: 2rem;
 }
